@@ -16,5 +16,6 @@ function getData() {
     { month: "Feb 2025", electricityUsage: 438, waterUsage: 14.9 },
     { month: "Mar 2025", electricityUsage: 451, waterUsage: 13.4 },
     { month: "Apr 2025", electricityUsage: 530, waterUsage: 16.2 },
+    { month: "May 2025", electricityUsage: 462, waterUsage: 13.4 },
   ];
 }
